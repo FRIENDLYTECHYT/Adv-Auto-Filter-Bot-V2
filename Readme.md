@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/SUPERBOTSZGROUP) For Support/Assistance And Our [Channel](https://www.telegram.dog/SuperBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/superbotsz) For Support/Assistance And Our [Channel](https://www.telegram.dog/SuperBotsz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
